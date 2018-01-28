@@ -18,6 +18,6 @@ http://dimplejs.org/advanced_examples_viewer.html?id=advanced_storyboard_control
 
 ## 参考图片
 ![alt](picture.jpg)
-```
-picture.jpg
-```
+
+## 
+http://bl.ocks.org/xiaobinJLU/5787f2dcc4651149746567aac364bd8d
