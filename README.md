@@ -15,3 +15,9 @@ ps:因为部分球队存在改名的现象，所以所收集的数据有一部�
   
 ## 参考资料
 http://dimplejs.org/advanced_examples_viewer.html?id=advanced_storyboard_control
+
+## 参考图片
+![alt](picture.jpg)
+```
+picture.jpg
+```
